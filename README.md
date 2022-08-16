@@ -1,5 +1,7 @@
 # India’s Design Framework
 
+> A design system for the Indian government.
+
 India’s government web properties needs a design framework with consistent styles, components and patterns. This is an attempt at kickstarting one, in the hope that this will be adopted and used for the good of the public.
 
 ## References
